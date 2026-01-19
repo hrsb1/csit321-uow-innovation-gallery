@@ -32,6 +32,7 @@ assets/ – Poster and promotional materials
 cd app
 npm install
 npm run dev
+```bash
 
 ## Documentation
 
