@@ -33,7 +33,7 @@ cd app
 npm install
 npm run dev
 
-Documentation
+## Documentation
 
 Technical Report: docs/CSIT 321 Technical Report - UOW Online Innovation Gallery.pdf
 
@@ -41,7 +41,7 @@ User Manual: docs/UOW Online Innovation Gallery - User Manual.pdf
 
 AWS Deployment Guide: docs/DeployingapponAWS.pdf
 
-Author
+## Author
 
 Hasibur Rahaman
 Bachelor of Computer Science (AI, Big Data & Cyber Security)
