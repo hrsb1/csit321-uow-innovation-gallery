@@ -1,7 +1,7 @@
 # UOW Online Innovation Gallery (CSIT321)
 
 A cloud-based web platform developed as part of **CSIT321 – Software Development Project**
-at the **University of Wollongong**, designed to showcase and manage student innovation projects.
+at the **University of Wollongong**, designed to showcase and manage student innovation projects along with projects of the Illawarra region.
 
 ## Tech Stack
 - **Frontend:** Next.js (React), Tailwind CSS, Ant Design
@@ -26,14 +26,6 @@ app/ –Application source code (Next.js + Amplify)
 docs/ – Technical report, user manual, deployment guides
 assets/ – Poster and promotional materials
 
-
-## Running the Project Locally
-```bash
-cd app
-npm install
-npm run dev
-```bash
-
 ## Documentation
 
 Technical Report: docs/CSIT 321 Technical Report - UOW Online Innovation Gallery.pdf
@@ -48,5 +40,14 @@ Hasibur Rahaman
 Bachelor of Computer Science (AI, Big Data & Cyber Security)
 University of Wollongong
 https://www.linkedin.com/in/hasibur-rahaman-1b5711254
+
+## Running the Project Locally
+```bash
+cd app
+npm install
+npm run dev
+
+
+
 
 
