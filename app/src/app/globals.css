@@ -1,0 +1,39 @@
+/* globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --font-montserrat: 'Montserrat', sans-serif;
+}
+
+.custom-no-radius .ant-select-selector {
+  border-radius: 0 !important;
+}
+
+body {
+  font-family: var(--font-montserrat);
+}
+.ant-typography,
+.ant-btn,
+.ant-input,
+.ant-select,
+.ant-menu,
+.ant-modal,
+.ant-table,
+.ant-form,
+.ant-tabs,
+.ant-card {
+  font-family: var(--font-montserrat) !important;
+}
+
+.ant-select-selector {
+  border-radius: 0 !important;
+  color: #001641 !important;
+}
+
+@layer tailwind-base, antd;
+
+@layer tailwind-base {
+  @tailwind base;
+}
+@tailwind components;
+@tailwind utilities;
